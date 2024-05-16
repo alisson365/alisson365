@@ -1,16 +1,16 @@
-### Hi there 👋
+### boas vindas ao meu prefil
 
-<!--
-**alisson365/alisson365** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome ê alisson vieira 
 
-Here are some ideas to get you started:
+- estou estudando na [alura](https //www.alura.com.br)
+- estou me desenvolvendo na linguagem javascript
+- utilizo esse espaço para minha  organização compartilhamento dos meus projeto desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ### você entrar em contato comigo
+
+- 0000108990907xsp@al.educacao.sp.gov.br
+- 
+  alisson vieira
+  
+  ![](0000108990907xsp@al.educacao.sp.gov.br)
+  
